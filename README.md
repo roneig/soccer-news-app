@@ -6,4 +6,8 @@ App Android Nativo usando a linguagem Java e explorar os componentes oferecidos 
 
 2. [Abstraindo dominio de apps android nativos com java](/https://github.com/roneig/soccer-news-app/tree/release/abstraindo-dominio-de-apps-android-nativos-com-java)
 
+3. [Consumo de APIs e  persistencia de dados locais](/https://github.com/roneig/soccer-news-app/tree/release/consumo-de-apis-e-persistencia-de-dados-locais)
+
+
+
 
