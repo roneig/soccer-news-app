@@ -13,6 +13,7 @@ public class News {
     public String link;
     public boolean favorite;
 
+    // atributos publicos não precisa g/s
     public String getTitle() {
         return title;
     }
